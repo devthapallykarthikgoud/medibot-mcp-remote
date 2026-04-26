@@ -1,0 +1,4 @@
+{
+  "name": "medibot-mcp",
+  "entrypoint": "main.py"
+}
