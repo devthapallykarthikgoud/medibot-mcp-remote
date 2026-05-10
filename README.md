@@ -350,9 +350,7 @@ The LLM autonomously decides which tool to invoke based on user intent — no if
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
