@@ -11,7 +11,7 @@
 **A production-grade Agentic AI Healthcare Assistant built on pure MCP (Model Context Protocol) architecture.**  
 No LangChain. No simulation. Real MCP — real tools — real agentic reasoning.
 
-[Live Demo](https://medibot-mcp-remote.onrender.com/mcp) · [GitHub Repo](https://github.com/devthapallykarthikgoud/medibot-mcp-remote) · [Report Bug](https://github.com/devthapallykarthikgoud/medibot-mcp-remote/issues)
+[Live Demo](https://mcpclient.streamlit.app/) · [GitHub Repo](https://github.com/devthapallykarthikgoud/medibot-mcp-remote) · [Report Bug](https://github.com/devthapallykarthikgoud/medibot-mcp-remote/issues)
 
 </div>
 
