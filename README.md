@@ -7,7 +7,6 @@
 ![Groq](https://img.shields.io/badge/Groq-LLM-F55036?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Render](https://img.shields.io/badge/Deployed-Render-46E3B7?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **A production-grade Agentic AI Healthcare Assistant built on pure MCP (Model Context Protocol) architecture.**  
 No LangChain. No simulation. Real MCP — real tools — real agentic reasoning.
